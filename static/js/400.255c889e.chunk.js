@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodernize=self.webpackChunkmodernize||[]).push([[400],{400:function(e,n,u){u.r(n),u.d(n,{default:function(){return t}});u(7313);var r=u(6417);function t(){return(0,r.jsx)("div",{children:"Study"})}}}]);
