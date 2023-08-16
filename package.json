@@ -1,6 +1,6 @@
 {
   "name": "modernize",
-  "homepage": "http://client.khaugalli.info/school_dashboard",
+  "homepage": "https://SIMRAN-KUSHWAH.github.io/Dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,6 +50,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "gh-pages": "^6.0.0",
     "prettier": "^2.3.1"
   },
   "scripts": {
