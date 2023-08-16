@@ -45,7 +45,7 @@ const Router = [
     children: [
     
       { path: '/dashboard', exact: true, element: <Dashboard /> },
-      { path: '/', element: <Navigate to="/dashboard" /> },
+  
       { path: '/AllStaff', exact: true, element: <Teacher /> },
       { path: '/AllStudent', exact: true, element: <Student /> },
       { path: '/StaffAttendence', exact: true, element: <TeacherAttendence /> },
